@@ -63,10 +63,10 @@ Este es un error de configuración de Visual Studio Code el cual no pudo realiza
     ![alt-img][image8]
 
 <!-- References -->
-[image1]: /c++/img/01.PNG "Logo Title Text 2"
-[image2]: /c++/img/03.PNG "Logo Title Text 2"
-[image4]: /c++/img/04.PNG "Logo Title Text 2"
-[image5]: /c++/img/05.PNG "Logo Title Text 2"
-[image6]: /c++/img/06.PNG "Logo Title Text 2"
-[image7]: /c++/img/07.PNG "Logo Title Text 2"
-[image8]: /c++/img/08.PNG "Logo Title Text 2"
+[image1]: ./img/01.png "Logo Title Text 2"
+[image2]: ./img/03.png "Logo Title Text 2"
+[image4]: ./img/04.png "Logo Title Text 2"
+[image5]: ./img/05.png "Logo Title Text 2"
+[image6]: ./img/06.png "Logo Title Text 2"
+[image7]: ./img/07.png "Logo Title Text 2"
+[image8]: ./img/08.png "Logo Title Text 2"
